@@ -1,0 +1,17 @@
+{
+  "name": "CHATS",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev", // Update this line according to your project's framework (e.g., "next dev" for Next.js, "react-scripts start" for Create React App, etc.)
+    "build": "next build", // Update this line according to your project's build command
+    "start": "next start" // Update this line according to your project's start command
+  },
+  "dependencies": {
+    // Your project dependencies
+  },
+  "devDependencies": {
+    // Your project dev dependencies
+  }
+}
